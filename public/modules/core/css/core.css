@@ -7,3 +7,11 @@
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
 	display: none !important;
 }
+
+.navbar-white {
+	background-color: #fff;
+	border: 0;
+	-webkit-box-shadow: 0 0 16px 0 rgba(50, 50, 50, 0.3);
+	-moz-box-shadow: 0 0 16px 0 rgba(50, 50, 50, 0.3);
+	box-shadow: 0 0 16px 0 rgba(50, 50, 50, 0.3);
+}

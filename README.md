@@ -2,11 +2,11 @@
 
 Stazure is a status board/site developed by [Resgrid](http://resgrid.com) to monitor Microsoft Azure based systems and report back status/uptime information to users and customers. 
 
-[![Build Status](https://api.travis-ci.org/resgrid/stazure.svg?branch=master)](https://travis-ci.org/resgrid/stazure)
+[![Build Status](https://travis-ci.org/Resgrid/Stazure.svg?branch=master)](https://travis-ci.org/resgrid/stazure)
 
 ## Development
 
-Stazure is developed using Node.js in Microsoft's Visual Studio 2013 with the [Node JS Tools]https://nodejstools.codeplex.com/).
+Stazure is developed using Node.js in Microsoft's Visual Studio 2013 with the [Node JS Tools](https://nodejstools.codeplex.com/).
 
 ## Demo
 
